@@ -21,8 +21,6 @@
 | 2. Common Pitfalls and the Danger of P-Hacking | Discusses errors, biases, and the dangers of p-hacking in research. | **Activity:** After a brief discussion on pitfalls, use the p-hacking dataset activity to drive home the dangers. | Combination of the two examples: A researcher missing out due to incomplete review and another losing their job due to p-hacking. |
 | 3. The Power of Meta-Analyses and Crafting Your Review | Talks about meta-analyses' strengths and guides students to start their reviews. | **Activity:** Brief exploration of tools/databases, then students draft a mini literature review outline. | The debunking of the vaccine-autism myth through meta-analysis. |
 
-I hope this curriculum aligns with your vision! You can further customize the content and examples to best fit your audience and the specific nuances of neuroscience literature.
-
 # Discerning differences between hypothesis-generating (exploratory) and hypothesis-testing (confirmatory) research
 ### Table 1: 3-hour course
 
@@ -49,7 +47,6 @@ Now, for the shorter 45-minute version, I'll focus on the most crucial lessons t
 | 2. The Dangers of P-hacking & Replication Crisis | Combining the issues of manipulating data and non-reproducible results. | **Activity:** Students use an online tool to 'p-hack' a dataset and then try to replicate their own findings. | **Example:** The shocking realization that many of the psychological priming studies (e.g., power pose) failed replication attempts. |
 | 3. Tools to Safeguard Research | Introduction to pre-registration, statistical power, and methods to prevent false discoveries. | **Activity:** Students design a mock study, pre-register hypotheses, and use an online simulator to understand study power. | **Example:** The discovery of the Higgs boson, where rigorous statistical methods were crucial to avoid false positives. |
 
-I hope this curriculum provides a good starting point for your course! Adjustments can be made based on the specific needs and preferences of your audience.
 
 # Formulating testable hypotheses to clarify questions
 
@@ -75,8 +72,6 @@ Now, let's create a shorter version of the curriculum for a 45-minute course:
 | 1. The Essence of Hypotheses | Highlighting the crucial role of hypotheses in neuroscience. | Students quickly jot down a current belief in neuroscience and how they'd test it. | Phineas Gage and the implications for the frontal lobe's role in personality. |
 | 2. The Dangers of Misleading Data | Understanding p-hacking and the importance of rigorous hypothesis testing. | Students see visually deceptive graphs and must pinpoint the deception. | A high-profile case where a scientist's results, believed to be p-hacked, were debunked leading to a lost job. |
 | 3. From Bias to Breakthrough | Recognizing biases and leveraging them for robust hypothesis formulation. | Students discuss a time they were fooled by an illusion or cognitive bias. | The "Invisible Gorilla" experiment and its revelations about human cognition and perception. |
-
-I hope this provides a solid foundation for your course!
 
 
 # Using Mathematical Models to Make Experimental Predictions
@@ -183,8 +178,6 @@ For the shortened 45-minute version:
 | **2. The Process and Benefits** | Introduction to the steps of pre-registration and its advantages. | *Activity*: Students draft a pre-registration for a hypothetical experiment in pairs. | **Example**: A groundbreaking study on neuroplasticity that was pre-registered. |
 | **3. Moving Towards Transparent Research** | Emphasizing the role of pre-registration in fostering better future research. | *Activity*: Students create a checklist or pledge for their future experiments. | **Example**: The young researcher who detected a major flaw due to lack of pre-registration, leading to a paradigm shift. |
 
-I hope this provides a comprehensive guide for your course! Adjustments can be made based on the specific details or preferences you might have.
-
 # Biases induced by inclusion and exclusion criteria
 
 ### Full Course Curriculum (3 hours):
@@ -207,8 +200,6 @@ I hope this provides a comprehensive guide for your course! Adjustments can be m
 | 1. Introduction to Bias | Understand the concept of biases in research. | **Activity**: "Spot the Bias" - Show students a fake research summary and have them identify potential biases. | **Example**: Andrew Wakefield's 1998 study on the MMR vaccine and autism. |
 | 2. P-Hacking & Exclusion Criteria Bias | Delve into manipulating data for desired results. | **Activity**: "Hack Your Way" & "Exclude to Conclude" combined – showing the dangers of data manipulation. | **Example**: A scientist losing their job due to discovered p-hacking in their research. |
 | 3. Empowerment & Solutions | Equip students to counteract biases. | **Activity**: "Bias-Free Design" - Students design a mini-study accounting for biases. | **Example**: The adoption of double-blind trials in medical research. |
-
-I hope this provides a good starting point for your course! Adjustments can be made as per specific needs and feedback from students.
 
 # Calculating necessary sample size and the mistaken inferences that come with not doing so
 
@@ -237,7 +228,6 @@ Now, for the shorter 45-minute version of the course.
 | **2. P-Hacking & Reproducibility Crisis** | Discussing p-hacking and why many studies fail to replicate. | Activity: "P-Hackathon" + "Replicate Me" Hybrid. Students find “significant” results and then try to replicate them. | The shocking realization in psychology and the case of the researcher who lost their job. |
 | **3. Power Analysis & The Ethical Imperative** | Introducing power analysis and discussing the ethical responsibility of researchers. | Activity: "Power Up!" + "Ethics Debate" Hybrid. Students perform power analysis and then debate its ethical implications. | The tale of "The Drug that Almost Wasn't" and the tragic story of a patient who suffered. |
 
-I hope this provides a comprehensive roadmap for your course! Adjustments can be made based on specific needs and feedback from students.
 
 # Proper Randomizing, including Blinding investigators during experimentation and analysis
 
@@ -264,7 +254,6 @@ I hope this provides a comprehensive roadmap for your course! Adjustments can be
 | 2. P-Hacking: The Silent Menace | Introduction to p-hacking and its implications. | Students are given a dataset and are encouraged to find "significant" results, demonstrating how easy it is to p-hack. | The story of a renowned scientist whose career was ruined after being caught p-hacking. |
 | 3. Empowering Yourself: Best Practices | Ensuring that students leave with the tools to conduct proper experiments. | Students list and discuss the lessons they've learned and how they'll apply them in future research. | The transformation of a scientist who once lost a major grant due to improper methodology, but then became a leading advocate for research integrity. |
 
-I hope this curriculum meets your requirements and provides a comprehensive yet engaging experience for your students!
 
 
 # Identifying Assumptions and Sources of Error
@@ -373,8 +362,6 @@ This course aims to engage students actively and make them aware of the potentia
 
 ---
 
-I hope this provides a good starting point for your course. You can adjust the content and depth based on your students' prior knowledge and interests.
-
 
 # Understanding null hypotheses, p-values, and statistical significance
 
@@ -399,10 +386,9 @@ I hope this provides a good starting point for your course. You can adjust the c
 | **2. The Pitfalls: P-hacking and Misunderstanding** | Combining topics 3 and 4, discussing common misconceptions and the dangers of p-hacking. | **Activity**: Students manipulate datasets to see how p-hacking can lead to false results. | **Example**: A researcher losing their job over manipulating p-values. |
 | **3. Toward Better Science: Replication and Solutions** | A combination of topics 7 and 8, stressing the importance of replication and introducing solutions. | **Activity**: Students discuss famous non-replicable studies and brainstorm ways to improve research reliability. | **Example**: The Open Science Framework and the benefits of study pre-registration. |
 
-I hope this serves as a useful foundation for your course! Adjustments can be made based on the specific nuances and requirements of your audience.
 
 
-### 3-hour Course: **P-hacking / Experimenter Degrees of Freedom**
+# P-hacking / Experimenter Degrees of Freedom
 
 | **Title** | **Short Summary** | **Potential Student Activity** | **Super Cool Example** |
 |-----------|-------------------|---------------------------|------------------------|
@@ -427,11 +413,10 @@ For the shorter 45-minute version, I've distilled the content into three crucial
 | **2. Dangers of Data Exploration & P-values** | The risks of over-analyzing data and the pitfalls of relying solely on p-values. | Students are given a dataset and tasked to find the most "shocking" result. Discussion on how this can mislead. | The "dead salmon" fMRI study and the pharmaceutical drug approved based on a borderline p-value. |
 | **3. Prevention & Ethical Research** | The importance of pre-registration, sample size, and conducting ethical research. | Brief activity on drafting a simple pre-registration and discussing its importance. | The push for pre-registration in the Open Science Framework and the story of a researcher's fall from grace due to p-hacking. |
 
-I hope this helps! Feel free to adjust as needed to better fit your audience and teaching style.
 
 
 
-### Full Course: Overfitting in ML (3 hours)
+# Overfitting in ML
 
 | **Title** | **Short Summary** | **Potential Student Activity** | **Super Cool Example** |
 |:---------:|:-----------------:|:-----------------------------:|:----------------------:|
@@ -452,10 +437,9 @@ I hope this helps! Feel free to adjust as needed to better fit your audience and
 | **The P-Hacking Menace** | Understanding p-hacking and its dangers in research | **Activity**: Students are given a dataset and are challenged to find "significant" results by tweaking the analysis. | **Example**: The story of a researcher who had to retract papers due to p-hacking and lost their academic position. |
 | **Model Validation: The Savior?** | The importance and methods of model validation | **Activity**: Students split a dataset into training and validation sets, and see how results differ. | **Example**: The tale of a financial firm that built a model on the entire dataset and faced massive losses in real-world trading. |
 
-I hope this curriculum aligns with your needs. Let me know if you'd like any modifications or more details!
 
 
-**Course Outline: HARKing (hypothesizing after results are known) / Garden of Forking Paths (3 hours)**
+# HARKing (hypothesizing after results are known) / Garden of Forking Paths 
 
 | Title | Short Summary | Potential Student Activity | Super Cool Example |
 |-------|---------------|---------------------------|--------------------|
@@ -478,11 +462,10 @@ I hope this curriculum aligns with your needs. Let me know if you'd like any mod
 | 2. The Garden of Forking Paths and Reproducibility | How choices in data analysis lead to different outcomes and the reproducibility crisis. | Students are presented with a dataset and choose analysis paths as in the longer version. | The "Dead Salmon" study and the Reproducibility Project's findings. |
 | 3. Moving Forward Ethically | Understanding the ethical implications and tools to combat HARKing. | Brief activity on pre-registering a study's hypothesis and methods on a mock platform. | The introduction of the Open Science Framework (OSF) and John Ioannidis' influential paper. |
 
-I hope this course outline serves as a solid foundation for your teaching. Adjustments can be made based on the specific requirements or focus of the audience.
 
 
 
-Sure, here's a proposed course outline for the 3-hour course on "**Model comparison**" for PhD students in neuroscience:
+# Model comparison
 
 **Table 1: 3-hour Course Outline**
 
@@ -509,7 +492,6 @@ For the 45-minute version:
 | 2 | P-hacking & Power of Cross-Validation | The pitfalls of p-hacking and the safeguard of cross-validation. | Students try to p-hack a dataset, then cross-validate their "findings" on a separate set. | The scientist who lost their job due to p-hacking and the medical drug that failed in the real world. |
 | 3 | Empowerment: Critical Thinking in Model Comparison | Promoting a skeptical approach to models and studies. | Students critically evaluate a flawed study and discuss its shortcomings. | A prominent study debunked due to poor model comparison. |
 
-I hope this gives you a strong starting point for your course. Adjustments can be made based on specific requirements and the background of your audience.
 
 
 # Reporting project workflows, methods, and divergence from plans
@@ -561,8 +543,6 @@ This proposed curriculum starts by raising awareness of the problems in scientif
 | **2. Misleading Graphs & The Danger of P-hacking** | How visuals can deceive and the pitfalls of p-hacking. | "Misleading to Truth": Students receive a misleading graph and a p-hacked result. They must correct and discuss the implications. | The infamous "Minard Map" contrasted with a case of a researcher's downfall due to p-hacking. |
 | **3. Empowering the Future of Transparent Data** | Inspiring students to uphold the highest standards of data integrity. | Vision Board: Students create a vision board of what transparent, ethical neuroscience research looks like to them. | The tale of a researcher who revolutionized neuroscience with her unwavering commitment to data transparency. |
 
-I hope this curriculum serves as a comprehensive guide for your course. If you need any modifications or further details, feel free to ask!
-
 # Displaying data transparently in figures and presentations
 
 ### Table 1: Full Course (3 hours)
@@ -588,7 +568,6 @@ I hope this curriculum serves as a comprehensive guide for your course. If you n
 | **2. Misleading Graphs & The Danger of P-hacking** | How visuals can deceive and the pitfalls of p-hacking. | "Misleading to Truth": Students receive a misleading graph and a p-hacked result. They must correct and discuss the implications. | The infamous "Minard Map" contrasted with a case of a researcher's downfall due to p-hacking. |
 | **3. Empowering the Future of Transparent Data** | Inspiring students to uphold the highest standards of data integrity. | Vision Board: Students create a vision board of what transparent, ethical neuroscience research looks like to them. | The tale of a researcher who revolutionized neuroscience with her unwavering commitment to data transparency. |
 
-I hope this curriculum serves as a comprehensive guide for your course. If you need any modifications or further details, feel free to ask!
 
 
 **Sharing data well**
@@ -615,7 +594,6 @@ Sure! Let's start by crafting the curriculum for the 3-hour course, and then we'
 | 2. P-Hacking and its Consequences | Understanding p-hacking and its implications. | **Activity**: "Dicey Results" - Students roll dice to 'achieve' a pre-decided result, showing data manipulation. | **Example**: A fictional researcher who lost their reputation due to p-hacking. |
 | 3. The Power of Collaboration | Highlighting the benefits of standardized data in fostering collaboration. | **Activity**: "Build the Brain" - Students collaborate to build a model of a brain using different 'data sets'. | **Example**: The Human Genome Project's success thanks to standardized data sharing and global collaboration. |
 
-I hope this provides a good starting point for your course! Adjustments can be made based on the specific needs and preferences of your audience.
 
 # Sharing Code Well
 
@@ -670,7 +648,6 @@ Now, for the 45-minute short version of the course:
 | **2. The Devil's in the Details** | Emphasizing the importance of every experimental detail. | "Detail Detective": Students analyze an experiment and list potential undocumented steps. | Alexis St. Martin's gunshot wound in the 19th century allowed for direct observation of digestion, but missing details led to misinterpretations. |
 | **3. Empowering the Future** | Equipping students with strategies to ensure comprehensive experimental documentation. | "Experiment Escape Room": Students navigate an escape room, solving puzzles related to experimental details. | A young scientist won a prestigious award for her meticulous experimental documentation, setting a new standard in her field. |
 
-I hope this provides a comprehensive and engaging curriculum for your course! Adjustments can be made based on specific needs or feedback.
 
 
 ### Curriculum for "Creating Standard Operating Procedures for Laboratory Workflows"
@@ -720,11 +697,9 @@ Sure, let's begin by constructing the table for the longer 3-hour version of the
 | **2. Open Science & The Power of Pre-registration** | Importance of transparency and pre-registering studies. | Students design a mini-study, pre-register a hypothesis, and discuss potential outcomes. | The change in clinical trial results post mandatory pre-registration, highlighting the prior biases. |
 | **3. Navigating the Tech Landscape: Ethics & Empowerment** | A dive into tech's role in research and the ethical challenges. | A brief debate on a controversial tech use in research, followed by a rundown of best practices. | The dual shock of AI biases in human data and the CRISPR babies scandal, emphasizing the need for ethical considerations. |
 
-I hope this provides a solid starting point for your course design!
 
 
-
-Sure! Here's a proposed curriculum for the 3-hour course on "**Using validated resources, methods, and outcome measures**" for PhD students in neuroscience.
+# Using validated resources, methods, and outcome measures
 
 ### Table 1: Full 3-hour Course
 
