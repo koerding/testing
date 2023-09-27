@@ -50,7 +50,7 @@ Now, for the shorter 45-minute version, I'll focus on the most crucial lessons t
 
 # Formulating testable hypotheses to clarify questions
 
-## Table 1: Curriculum for 3-hour Course
+### Table 1: Curriculum for 3-hour Course
 
 | Title | Short Summary | Potential Student Activity | Super Cool Example |
 |-------|---------------|----------------------------|--------------------|
@@ -65,7 +65,7 @@ Now, for the shorter 45-minute version, I'll focus on the most crucial lessons t
 
 Now, let's create a shorter version of the curriculum for a 45-minute course:
 
-## Table 2: Curriculum for 45-minute Short Course
+### Table 2: Curriculum for 45-minute Short Course
 
 | Title | Short Summary | Potential Student Activity | Super Cool Example |
 |-------|---------------|----------------------------|--------------------|
@@ -218,7 +218,6 @@ For the shortened 45-minute version:
 
 ---
 
-Now, for the shorter 45-minute version of the course.
 
 ### Table 2: 45-Minute Course Outline
 
@@ -279,7 +278,6 @@ Now, for the 45-minute short version:
 | Misleading Stats & The Reproducibility Crisis | How data can be manipulated and why many studies can't be replicated. | Interactive tool & challenge: Students adjust graph axes, then design a replication experiment for a brief study. | Combining the misleading "Y-axis" example with the alarming statistic on failed reproduction of experiments. |
 | Empowering Critical Thinking in Neuroscience | Direct relevance of assumptions in the neuroscience field and tools to avoid pitfalls. | Brain Imaging Fallacy & checklist: Students analyze brain scans and use a critical thinking checklist. | The debunking of phrenology and the success story of a rigorous neuroscientist. |
 
-These tables provide a comprehensive and engaging curriculum tailored for neuroscience PhD students. Adjustments can be made based on specific requirements or preferences.
 
 # Bad model systems
 
@@ -304,7 +302,6 @@ These tables provide a comprehensive and engaging curriculum tailored for neuros
 | 2. P-Hacking Horrors | The dangers of manipulating data to fit a desired outcome. | **Coin Flip Simulator:** Online tool where students manipulate coin flip outcomes. | The psychologist whose manipulated data led to retractions and a damaged reputation. |
 | 3. Empowered Modeling | Tools and critical thinking to evaluate and develop better scientific models. | **Model Marketplace:** Students evaluate a scientific model's strengths and flaws. | The researcher who defied popular models, endured criticism, and later advanced the field. |
 
-The overall narrative for both courses begins with raising awareness about the inherent limitations in models, moves through specific problems and challenges in the field, and culminates in empowering students with tools and the mindset to approach models critically and constructively.
 
 # Creating an analysis plan / relating data to hypotheses
 
@@ -454,7 +451,7 @@ For the shorter 45-minute version, I've distilled the content into three crucial
 
 ---
 
-**Short Course Outline: HARKing / Garden of Forking Paths (45 minutes)**
+### Short Course Outline: HARKing / Garden of Forking Paths (45 minutes)**
 
 | Title | Short Summary | Potential Student Activity | Super Cool Example |
 |-------|---------------|---------------------------|--------------------|
@@ -467,7 +464,7 @@ For the shorter 45-minute version, I've distilled the content into three crucial
 
 # Model comparison
 
-**Table 1: 3-hour Course Outline**
+### Table 1: 3-hour Course Outline
 
 | # | Title | Short Summary | Potential Student Activity | Super Cool Example |
 |---|-------|---------------|---------------------------|--------------------|
@@ -484,7 +481,7 @@ For the shorter 45-minute version, I've distilled the content into three crucial
 
 For the 45-minute version:
 
-**Table 2: 45-minute Short Course Outline**
+### Table 2: 45-minute Short Course Outline
 
 | # | Title | Short Summary | Potential Student Activity | Super Cool Example |
 |---|-------|---------------|---------------------------|--------------------|
@@ -495,6 +492,7 @@ For the 45-minute version:
 
 
 # Reporting project workflows, methods, and divergence from plans
+
 ### Full Course Outline (3 Hours)
 
 | Title | Short Summary | Potential Student Activity | Super Cool Example |
@@ -533,7 +531,6 @@ This proposed curriculum starts by raising awareness of the problems in scientif
 | **7. Tools for Transparent Data Display** | Introduction to tools and software that aid in transparent data visualization. | Tool Exploration: Students explore a given data visualization tool, creating a sample graph and sharing it with the class. | The development and rise of tools like "D3.js" that revolutionized how we visualize and understand complex datasets. |
 | **8. Empowering the Future of Transparent Data** | Encouraging students to champion transparency in their research. | Pledge Creation: Students draft a personal pledge on how they will ensure transparency in their future research. | The story of a young researcher who became famous in her field for her dedication to transparency, leading to groundbreaking discoveries. |
 
----
 
 ### Table 2: Short Course (45 minutes)
 
@@ -558,7 +555,6 @@ This proposed curriculum starts by raising awareness of the problems in scientif
 | **7. Tools for Transparent Data Display** | Introduction to tools and software that aid in transparent data visualization. | Tool Exploration: Students explore a given data visualization tool, creating a sample graph and sharing it with the class. | The development and rise of tools like "D3.js" that revolutionized how we visualize and understand complex datasets. |
 | **8. Empowering the Future of Transparent Data** | Encouraging students to champion transparency in their research. | Pledge Creation: Students draft a personal pledge on how they will ensure transparency in their future research. | The story of a young researcher who became famous in her field for her dedication to transparency, leading to groundbreaking discoveries. |
 
----
 
 ### Table 2: Short Course (45 minutes)
 
@@ -570,10 +566,9 @@ This proposed curriculum starts by raising awareness of the problems in scientif
 
 
 
-**Sharing data well**
-Sure! Let's start by crafting the curriculum for the 3-hour course, and then we'll create the shortened 45-minute version. 
+# Sharing data well
 
-## 3-Hour Course Curriculum
+### 3-Hour Course Curriculum
 
 | Title | Short Summary | Potential Student Activity | Super Cool Example |
 |-------|---------------|----------------------------|--------------------|
@@ -586,7 +581,7 @@ Sure! Let's start by crafting the curriculum for the 3-hour course, and then we'
 | 7. Pitfalls of Ignorance | Realizing the consequences of ignoring the need for standardized data. | **Activity**: "Spot the Error" - Students receive a set of data. Some are standardized, some aren't. They must identify which ones would lead to incorrect conclusions. | **Example**: Steve Jobs' initial dismissal of conventional medical treatments (based on standardized data) in favor of alternative methods. |
 | 8. The Future is Standardized | Looking forward to a world with better standardized data sharing practices. | **Activity**: "Imagine the Impact" - Students envision and share groundbreaking neuroscience discoveries made possible by globally standardized data. | **Example**: A fictional tale of a future where Alzheimer's is cured due to global collaboration using standardized data. |
 
-## 45-Minute Short Course Curriculum
+### 45-Minute Short Course Curriculum
 
 | Title | Short Summary | Potential Student Activity | Super Cool Example |
 |-------|---------------|----------------------------|--------------------|
@@ -650,7 +645,7 @@ Now, for the 45-minute short version of the course:
 
 
 
-### Curriculum for "Creating Standard Operating Procedures for Laboratory Workflows"
+# Creating Standard Operating Procedures for Laboratory Workflows
 
 | Title | Short Summary | Potential Student Activity | Super Cool Example |
 |-------|---------------|---------------------------|--------------------|
@@ -674,9 +669,9 @@ Now, for the 45-minute short version of the course:
 | **3. Building a Reliable SOP & Empowerment** | How to construct a good SOP and the need for continuous improvement. | Drafting a simple SOP and suggesting improvements. | The award-winning lab story and the junior lab member's success story. |
 
 
-Sure, let's begin by constructing the table for the longer 3-hour version of the course, and then I'll provide the shorter 45-minute version.
 
-## Table 1: Course Outline for "Using Emerging Technologies to Improve Rigor and Transparency" (3-hour version)
+
+# Using Emerging Technologies to Improve Rigor and Transparency
 
 | Title | Short Summary | Potential Student Activity | Super Cool Example |
 |-------|---------------|----------------------------|--------------------|
@@ -689,14 +684,13 @@ Sure, let's begin by constructing the table for the longer 3-hour version of the
 | **7. Ethical Considerations & Tech** | The ethical challenges posed by new tech in research. | A debate: Students are given a controversial use of tech in research and debate its ethical implications. | The CRISPR babies scandal where a scientist edited human embryos, leading to global outrage. |
 | **8. Empowerment: Tools & Best Practices** | Equipping students with tools and methodologies to ensure rigorous research. | Students assess a mock research scenario and suggest improvements using tools learned in the course. | The transformation of the journal "Nature" after adopting rigorous transparency and reproducibility guidelines. |
 
-## Table 2: Course Outline for "Using Emerging Technologies to Improve Rigor and Transparency" (45-minute version)
+### Table 2: Course Outline for "Using Emerging Technologies to Improve Rigor and Transparency" (45-minute version)
 
 | Title | Short Summary | Potential Student Activity | Super Cool Example |
 |-------|---------------|----------------------------|--------------------|
 | **1. The Reproducibility Crisis & P-hacking** | Overview of reproducibility issues and p-hacking in research. | Students quickly replicate a mini "experiment" and discuss potential pitfalls in methodology. | The combined shock of Brian Wansink's fall from grace and the alarming rate of irreproducible preclinical studies. |
 | **2. Open Science & The Power of Pre-registration** | Importance of transparency and pre-registering studies. | Students design a mini-study, pre-register a hypothesis, and discuss potential outcomes. | The change in clinical trial results post mandatory pre-registration, highlighting the prior biases. |
 | **3. Navigating the Tech Landscape: Ethics & Empowerment** | A dive into tech's role in research and the ethical challenges. | A brief debate on a controversial tech use in research, followed by a rundown of best practices. | The dual shock of AI biases in human data and the CRISPR babies scandal, emphasizing the need for ethical considerations. |
-
 
 
 # Using validated resources, methods, and outcome measures
@@ -714,7 +708,6 @@ Sure, let's begin by constructing the table for the longer 3-hour version of the
 | **7. Using Validated Methods** | Ensuring the methods used in research are tried-and-true. | **Activity:** Students perform a simple experiment with both a validated and non-validated method to compare results. | **Example:** The story of a pharmaceutical company that wasted millions due to relying on a non-validated method. |
 | **8. Empowerment through Knowledge** | Equipping students with tools and resources to ensure validation. | **Activity:** A "treasure hunt" where students use validated resources to find answers. | **Example:** The success story of a renowned neuroscientist who emphasizes the importance of validation in their work. |
 
----
 
 ### Table 2: Shortened 45-minute Course
 
@@ -724,10 +717,8 @@ Sure, let's begin by constructing the table for the longer 3-hour version of the
 | **2. The Fallacy of P-hacking** | The dangers of manipulating data for desired outcomes. | **Activity:** Students "find" significant results in random data. | **Example:** A scientist's fall from grace due to p-hacking. |
 | **3. Empowerment through Knowledge** | Providing tools and resources for validation. | **Activity:** A "treasure hunt" using validated resources. | **Example:** The renowned neuroscientist who emphasizes validation in their work. |
 
-This curriculum begins by raising awareness of the problems and then gradually moves towards empowering the students. The activities are designed to be engaging, fun, and surprising, with concrete and awe-inspiring examples to drive the point home.
 
-
-**Replicating experiments**
+# Replicating experiments
 
 ### Table 1: Course Outline (3 hours)
 
@@ -754,9 +745,8 @@ Now, for the shorter 45-minute version:
 | **2. The Replication Crisis & Importance of Preregistration** | The challenges of replication and how preregistration can help. | Replicate a simple "experiment" and draft a "preregistration" of hypotheses. | The combined tales of the "power pose" study and the Reproducibility Project in psychology. |
 | **3. Open Science, Tools & Empowerment** | The significance of open science and tools available for researchers. | Explore an open science platform briefly and draft a personal pledge. | The success of platforms like JASP and OSF, and the story of a young researcher challenging a major study. |
 
-I hope these tables serve as a strong foundation for your course!
 
-** Full Course on Open Science (3 Hours) **
+# Open Science
 
 | Title | Short Summary | Potential Student Activity | Super Cool Example |
 |-------|---------------|---------------------------|--------------------|
@@ -771,7 +761,7 @@ I hope these tables serve as a strong foundation for your course!
 
 ---
 
-**Table 2: Short Course on Open Science (45 Minutes)**
+### Table 2: Short Course 
 
 | Title | Short Summary | Potential Student Activity | Super Cool Example |
 |-------|---------------|---------------------------|--------------------|
@@ -779,12 +769,8 @@ I hope these tables serve as a strong foundation for your course!
 | 2. **Open Data & Collaboration** | The importance of transparency in data and the power of collaborative efforts. | **Activity:** "Data Detective" combined with "Wiki-Science". Students verify a conclusion and then collaboratively suggest improvements. | **Example:** Brian Wansink's case and the positive impact of the "Many Labs" projects. |
 | 3. **Empowering Change & Open Access** | Steps for change and the push for freely available research. | **Activity:** "Open Science Pledge" combined with "Unlock the Paper". Students draft a pledge and argue for open access. | **Example:** Aaron Swartz's story and the rise of the Open Science Framework (OSF). |
 
-I hope this provides a comprehensive and engaging overview for your students on the crucial topic of open science!
 
-
-Sure, let's start with the 3-hour course outline:
-
-**Table 1: 3-hour course on "Fighting bad rigor in (neuro)science"**
+# Fighting bad rigor in (neuro)science
 
 | Title | Short Summary | Potential Student Activity | Super Cool Example |
 |-------|---------------|----------------------------|--------------------|
@@ -797,11 +783,11 @@ Sure, let's start with the 3-hour course outline:
 | **7. The Power of Peer Review** | The strengths and weaknesses of the peer review process. | *Activity*: "Peer Review Role Play" - Students review a mock paper and discuss its merits and flaws. | The Sokal Affair, where a nonsensical paper was accepted by a cultural studies journal. |
 | **8. Empowering Rigor** | Tools and practices to ensure good rigor in research. | *Activity*: "Rigor Toolkit" - Students compile a checklist of best practices they've learned. | The story of a researcher who incorporated rigorous practices and overturned a long-held but flawed belief. |
 
----
+
 
 For the shorter 45-minute version:
 
-**Table 2: 45-minute course on "Fighting bad rigor in (neuro)science"**
+### Table 2: 45-minute course on "Fighting bad rigor in (neuro)science
 
 | Title | Short Summary | Potential Student Activity | Super Cool Example |
 |-------|---------------|----------------------------|--------------------|
@@ -809,7 +795,6 @@ For the shorter 45-minute version:
 | **2. Replication Crisis & Publication Bias** | The importance of replication and the issues of publication bias. | *Activity*: "Journal Editor's Dilemma" - As described above. | The shocking failure of many high-profile psychology studies to replicate. |
 | **3. Empowering Rigor** | Tools and practices to ensure good rigor in research. | *Activity*: "Rigor Toolkit" - As described above. | The story of a researcher who incorporated rigorous practices and debunked a flawed belief. |
 
-These outlines provide a cohesive narrative arc starting with an awareness of the problems in neuroscience and other scientific disciplines and moving toward tools and strategies to address these issues.
 
 
 # Keeping Proper Logs/ Notebooks
@@ -835,13 +820,9 @@ These outlines provide a cohesive narrative arc starting with an awareness of th
 | 2. Replicability and Transparency | Highlighting the essence of clarity and replicability in research notes. | Students try to replicate a simple experiment based on a peer's notes. | Instances of high-profile retractions due to lack of replicability, like in the field of social priming. |
 | 3. Empowerment Through Proper Logging | Discussing the positive impact of meticulous logging on research quality. | Students share a time when proper logging benefitted their own work. | Rosalind Franklin’s detailed research notes that greatly impacted the field of molecular biology. |
 
-I hope this provides a comprehensive structure for your course. Adjustments can be made based on specific student feedback or any other considerations.
 
 
-
-
-
-Sure! Let's start with the full version of the course. Here's a proposed outline for the 3-hour course on "**Validating Experimental Resources**":
+# Validating Experimental Resources
 
 | **Title** | **Short Summary** | **Potential Student Activity** | **Super Cool Example** |
 |---|---|---|---|
@@ -861,5 +842,3 @@ For the shorter 45-minute version, we'll distill the essence of the course:
 | **1. The Dangers of P-Hacking and Reproducibility Crisis** | Combining lessons on p-hacking and the reproducibility crisis. | **Activity**: Students are given datasets and encouraged to "find" significant results. They then try to replicate peers' findings with varied success. | The case of Brian Wansink and the startling statistic about the non-reproducibility of preclinical studies. |
 | **2. Bias and the Importance of Peer Review** | Merging lessons on bias and peer review. | **Activity**: Students review a purposely flawed "paper", then discuss how biases might have affected its creation and review. | The Sokal Affair and the story of Rosalind Franklin. |
 | **3. Open Science as the Way Forward** | Discussing open science's role in the future of validated neuroscience research. | **Activity**: Students access an "open science" repository, comparing its transparency and utility to traditional methods. | The inspiring story of Jack Andraka and the Reproducibility Project's collective efforts. |
-
-This curriculum should provide a good blend of theory, practical activities, and memorable examples to drive home the importance of validating experimental resources in neuroscience.
